@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-A simple player count module
+A simple player count module using the Wynncraft API
 """
 import urllib2
 import json
